@@ -51,14 +51,14 @@ It's important to understand that I cannot exaust tuning the model withou good d
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](https://c2-ml-torkflow-training.s3.amazonaws.com/l2e1/challenge/model_train_score.png)
+![model_train_score.png](./model_train_score(1).png)
 
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](https://c2-ml-torkflow-training.s3.amazonaws.com/l2e1/challenge/model_test_score.png)
+![model_test_score.png](model_test_score(1).png)
 
 ## Summary
 This project shows how powerful is autogluon,
